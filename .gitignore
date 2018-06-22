@@ -1,0 +1,41 @@
+.idea/
+/.idea/*
+*.iml
+*.class
+.git/
+*.log
+target/
+
+#####
+# build dir
+/apprelease
+/build
+/bin
+/WebRoot/WEB-INF/classes
+/classes
+
+# Java class files
+*.class
+
+# Log Files
+*.log
+
+# Gradle files
+.gradle/
+build/
+
+# Maven files
+.mvn/
+target/
+
+# Intellij
+.idea/
+*.iml
+
+# Eclipse
+.metadata/
+.settings/
+.bin/
+#.classpath
+#.project
+out/
